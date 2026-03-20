@@ -80,4 +80,3 @@ onChange={handleChange}
 }
 
 export default Login;
-nbzg
